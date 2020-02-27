@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Devnet/Curso de Porgramacion de Redes&apos; to &apos;Curso de Porgramacion de Redes.py&apos;" description="Rename resource &apos;Curso de Porgramacion de Redes&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Curso de Porgramacion de Redes" name="Curso de Porgramacion de Redes.py" stamp="1581622896633" updateReferences="true"/>
+</session>

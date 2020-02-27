@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\ivan\Desktop\Archivos LiClipse\.metadata\.plugins\org.eclipse.core.resources\.projects\Devnet\com.python.pydev.analysis\v2_indexcache
+Clases_Webinars|1580752869143507000|C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Clases_Webinars.py
+Ejercicios_Aprende_Con_Alf|1581551873123674000|C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Ejercicios_Aprende_Con_Alf.py
+EjerciciosPythonInstitute|1581551169171659000|C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\EjerciciosPythonInstitute.py
+Ajedrez|1580843608920484000|C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Ajedrez.py
+Internet|1580943582546459000|C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Internet.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+7=perro
+4=EjerciciosPythonInstitute
+3=C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\EjerciciosPythonInstitute.py
+1=C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Ajedrez.py
+2=Ajedrez
+6=Internet
+5=C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet\Internet.py
+-- END DICTIONARY
+-- START TREE 1
+18
+boa|2|board!1^62#1*19@board!3^428#1*35@
+c|1|c!1^119#5*19@
+dis|1|DisplayBoard!3^434#5*34@
+emp|1|EMPTY!1^2#1*19@
+f|1|f!1^118#5*19@
+hor|4|HORSE4!1^40#1*19@HORSE2!1^37#1*19@HORSE!1^36#1*19@HORSE3!1^39#1*19@
+kin|2|KING!1^44#1*19@KING2!1^46#1*19@
+kni|4|KNIGHT3!1^59#1*19@KNIGHT!1^56#1*19@KNIGHT2!1^57#1*19@KNIGHT4!1^60#1*19@
+kuk|1|kuki!5^110#1*51@
+lin|1|linda!5^109#1*51@
+num|1|number!3^429#1*35@
+op|1|op!1^114#1*19@
+p|1|p!1^116#5*19@
+paw|16|PAWN3!1^18#1*19@PAWN13!1^29#1*19@PAWN8!1^23#1*19@PAWN2!1^17#1*19@PAWN14!1^30#1*19@PAWN10!1^26#1*19@PAWN7!1^22#1*19@PAWN!1^16#1*19@PAWN5!1^20#1*19@PAWN15!1^31#1*19@PAWN6!1^21#1*19@PAWN11!1^27#1*19@PAWN4!1^19#1*19@PAWN16!1^32#1*19@PAWN12!1^28#1*19@PAWN9!1^25#1*19@
+per|1|perro!5^100#7*49@
+que|2|QUEEN!1^50#1*19@QUEEN2!1^52#1*19@
+roo|4|ROOK!1^8#1*19@ROOK2!1^9#1*19@ROOK4!1^12#1*19@ROOK3!1^11#1*19@
+row|1|row!1^66#5*19@
+-- END TREE
+-- START TREE 2
+3
+__i|1|__init__!7&5^101#9*50@
+com|1|comer!7&5^105#9*50@
+lad|1|ladrar!7&5^103#9*50@
+-- END TREE

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="AnyEditTools:2.6.1.201711281546"/>
+		<item value="org.eclipse.egit:5.6.0.201912101111-r"/>
+		<item value="org.eclipse.emf.common:2.17.0.v20190920-0401"/>
+		<item value="org.eclipse.emf.ecore:2.20.0.v20190920-0401"/>
+		<item value="org.eclipse.epp.mpc:1.7.7.v20190521-1752"/>
+		<item value="org.eclipse.help:2.3.0.v20191210-0610"/>
+		<item value="org.eclipse.jgit.http.apache:5.6.0.201912101111-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.6.0.201912101111-r"/>
+		<item value="org.eclipse.jgit:5.6.0.201912101111-r"/>
+		<item value="org.eclipse.platform:4.14.0.v20191210-0610"/>
+		<item value="org.eclipse.rcp:4.14.0.v20191210-0610"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20190308-0433"/>
+		<item value="org.python.pydev.feature:7.5.0.202001101115"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.python.pydev.ui.wizards.project.PythonProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Devnet"/>
+			<item value="C:\Users\ivan\Desktop\Titulo Cisco Becas Digitalizadas\Curso Devnet\Proyectos Liclipse Pydev\Calculadora"/>
+		</list>
+	</section>
+</section>

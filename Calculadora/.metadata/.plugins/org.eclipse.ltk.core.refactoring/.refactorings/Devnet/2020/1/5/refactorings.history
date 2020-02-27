@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Devnet/Clases Webinars.py&apos; to &apos;Clases_Webinars.py&apos;" description="Rename resource &apos;Clases Webinars.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Clases Webinars.py" name="Clases_Webinars.py" stamp="1580148137414" updateReferences="true"/>
+</session>
