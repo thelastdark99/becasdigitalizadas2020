@@ -1,0 +1,1 @@
+Estos son ejercicios donde he hido practicando y de los cuales cuando me salian las cosas las añadia al archivo funciones:)
